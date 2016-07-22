@@ -1,6 +1,6 @@
 # PyTiming
 ## Description:    
-Create some low-level Arduino-like millis() &amp; delay() (for milliseconds) and micros() and delayMicroseconds (for microseconds) timing functions for Python
+Create some low-level Arduino-like millis() &amp; delay() (for milliseconds) and micros() and delayMicroseconds() (for microseconds) timing functions for Python
 
 ## Website:   
 http://www.electricrcaircraftguy.com/2016/07/arduino-like-millisecond-and-microsecond-timestamps-in-python.html
